@@ -1,9 +1,12 @@
-### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niiwade)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niiwade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **niiwade/niiwade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+### Hi there 👋 My name is Nii Lante ,I am a Full Stack Developer from :ghana:
 
 Here are some ideas to get you started:
 
