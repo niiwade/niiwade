@@ -6,8 +6,7 @@
 **niiwade/niiwade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-### Hi there 👋 My name is Nii Lante ,I am a Full Stack Developer from :ghana:
-
+Hi there 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
