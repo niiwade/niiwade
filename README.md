@@ -5,9 +5,9 @@ My name is Joseph. I am a FullStack Software Engineer based in Accra, Ghana :gha
 
  I love  to build cool stuff and see projects come to life. I am looking forward to develop creative and interesting stuff that serves a great impact to our community.
 
-🔭 I’m currently working on building API's 
+🔭 I’m currently working on a really cool project 
 
- 🌱 I’m currently learning to write great unit test in Node JS, reading more about React , Data Structures and more cool stuff 
+ 🌱 Rebase:)
  
  ⚡ Fun fact: I love travelling and am actually a professional photographer :camera_flash:. Check out my instagram page for some of my old works
  
