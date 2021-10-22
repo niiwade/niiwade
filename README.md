@@ -9,7 +9,9 @@ My name is Joseph. I am a FullStack Software Engineer based in Accra, Ghana :gha
 
  🌱 Rebase:)
  
- ⚡ Fun fact: I love travelling and am actually a professional photographer :camera_flash:. Check out my instagram page for some of my old works
+ ⚡ Fun fact: I love travelling and am actually a professional photographer :camera_flash:. Check out my instagram page for some of my old works.
+ 
+ [Visit my portfolio website](https://joelampteyportfolio.netlify.app/)
  
  
  📫 How to reach me:
