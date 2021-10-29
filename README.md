@@ -58,7 +58,7 @@ My name is Joseph. I am a FullStack Software Engineer based in Accra, Ghana :gha
 <p align="center">
   <img width="400" src="https://wadeydev.hashnode.dev/understanding-the-event-module-and-event-emitter-class-in-node-js" />
   <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
- <a href="https://github.com/YuriDevAT/sos-animals">
+ <a href="https://wadeydev.hashnode.dev/understanding-the-event-module-and-event-emitter-class-in-node-js">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
 </a>
   <a href="https://github.com/YuriDevAT/smart-shopping-list">
