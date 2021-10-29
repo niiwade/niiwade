@@ -66,8 +66,8 @@ My name is Joseph. I am a FullStack Software Engineer based in Accra, Ghana :gha
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>
 <!--<a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/nextjs.png" alt="nextjs" width="40" height="40"/> </a>-->
-<img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img alt="GitHub" width="40px" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" />
+ src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png alt="react" width="40px" height="40"/> </a>
+<!--<a href="https://nextjs"https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png.org/" target="_blank"> <img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/nextjs.png" alt="nextjs" width="40" height="40"/> </a>-->
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  
 
 <!--
