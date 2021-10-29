@@ -27,7 +27,9 @@ My name is Joseph. I am a FullStack Software Engineer based in Accra, Ghana :gha
     </a>
     
 </span>
-<--
+
+<!--
+ 
  <h2 align="center">My favorite projects 💻</h2>
 <br />
 
