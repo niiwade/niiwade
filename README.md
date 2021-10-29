@@ -52,24 +52,14 @@ My name is Joseph. I am a FullStack Software Engineer based in Accra, Ghana :gha
 
 <br />
   
-  <h2 align="center">Latest Blogs 💻</h2>
-<br />
+ 
+ 📕 **Latest Blog Posts**
 
-<p align="center">
-  <img width="400" src="https://wadeydev.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1632784745445%2F8jguZEVMSJ.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" />
-  
- <a href="https://wadeydev.hashnode.dev/understanding-the-event-module-and-event-emitter-class-in-node-js">
-</a>
-  <a href="https://github.com/YuriDevAT/smart-shopping-list">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
-</a>
-  <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
-  <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
-  <a href="https://github.com/YuriDevAT/nikki-my-diary">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
-</a>
-
-<br />
+<!-- BLOG-POST-LIST:START -->
+- [Understanding the Event Module & Event Emitter Class in Node Js.](https://wadeydev.hashnode.dev/understanding-the-event-module-and-event-emitter-class-in-node-js)
+- [Changing the favicon in React, A very simple way](https://wadeydev.hashnode.dev/changing-the-favicon-in-react-a-very-simple-way)
+- [Create a Simple API with FastAPI (Part 1)](https://wadeydev.hashnode.dev/create-a-simple-api-with-fastapi-part-1)
+<!-- BLOG-POST-LIST:END -->
  
   
   ### Skills/Frameworks
