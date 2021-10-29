@@ -2,17 +2,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niiwade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p>
-  <h1 align="center"><b>Hi there, I'm Julia <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
-</p>
-<p align="center">
-<a href="https://www.linkedin.com/in/juliaundeutsch"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
-<a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
-
-</p>
-<br />
-
 My name is Joseph. I am a FullStack Software Engineer based in Accra, Ghana :ghana:
 
  I love  to build cool stuff and see projects come to life. I am looking forward to develop creative and interesting stuff that serves a great impact to our community.
@@ -66,15 +55,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
-## Projects
+<h2 align="center">My favorite projects 💻</h2>
+<br />
 
-### SplashGlam | Dec 2020 | [Repo](https://github.com/tolentinoel/splashglam_frontend) | [App hosted here](https://splashglam.herokuapp.com/)
+<p align="center">
+  <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
+  <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
+ <a href="https://github.com/YuriDevAT/sos-animals">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
+</a>
+  <a href="https://github.com/YuriDevAT/smart-shopping-list">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
+</a>
+  <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
+  <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
+  <a href="https://github.com/YuriDevAT/nikki-my-diary">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
+</a>
+<a href="https://github.com/YuriDevAT/instagram-clone">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
+</a>
+</p>
 
-An app that lets users browse through all skincare products. The products are filtered based on skin
-concerns. A user can also create a list and add bookmarked products to that list. Utilized ParseHub to scrape data from Soko Glam as product data on the app. Runs on PostgreSQL database, built with JWT for user authentication, Active Model serializer, and Ruby on rails backend with React, React-router, CSS, and Bootstrap for frontend.
-
-
-### Flip! | Nov 2020 | [Repo](https://github.com/tolentinoel/flip) | [App hosted here](https://tolentinoel.github.io/flip/)
-
-A memory game application that contains 3 difficulty levels and 3 themes for the user to choose from. Utilized Rick and Morty API, IconFinder API, and Font Awesome icons for card icons on the themed boards. Running on SQLite3 database, Ruby on rails backend with JavaScript, HTML, CSS, and Bootstrap for frontend.
--->
+<br />
