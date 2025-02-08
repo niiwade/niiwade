@@ -1,7 +1,3 @@
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niiwade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 My name is Joseph. I am a FullStack Software Engineer based in Accra, Ghana :ghana:
 
  I love  to build cool stuff and see projects come to life. I am looking forward to develop creative and interesting stuff that serves a great impact to our community.
